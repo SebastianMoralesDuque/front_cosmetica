@@ -1,4 +1,4 @@
-# Proyecto front para Clínica
+# Proyecto front para Cosmetica
 
 Este es un proyecto React diseñado para una clínica médica. A continuación, se presenta una guía para comprender la estructura de carpetas del proyecto y cómo ejecutarlo.
 
