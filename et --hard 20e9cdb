@@ -1,0 +1,23 @@
+[33m5307d1d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: commit: Guardando cambios locales antes de aplicar el stash
+[33m026e9e2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: pull (finish): returning to refs/heads/main
+[33m026e9e2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: pull (start): checkout 026e9e2fe4970418760c27d42baa3d3e6251c0cc
+[33m20e9cdb[m HEAD@{3}: reset: moving to HEAD
+[33m20e9cdb[m HEAD@{4}: commit: se agrega el formulario para editar la info de lpaciente y el boton para eliminar la cuenta
+[33m98ff27a[m HEAD@{5}: commit: prueba
+[33m7404844[m HEAD@{6}: commit: se listan los medicos por especializacion y se agrega jornada a los medicos
+[33mfc55f23[m HEAD@{7}: commit: se mejora visualmente la forma de subir la foto junto con el navbar de medico para mostrar mas informacion
+[33m874d07f[m HEAD@{8}: pull: Fast-forward
+[33m6a4dbaa[m HEAD@{9}: commit: se mejora la interfaz en recuperar contraseña
+[33ma7b8a7b[m HEAD@{10}: reset: moving to HEAD
+[33ma7b8a7b[m HEAD@{11}: pull: Fast-forward
+[33m6c30258[m HEAD@{12}: commit: se arregla el navbar de administrador
+[33m676bebb[m HEAD@{13}: commit: se corrije el servicio de login para todos los usuarios
+[33m1241a5b[m HEAD@{14}: rebase (finish): returning to refs/heads/main
+[33m1241a5b[m HEAD@{15}: rebase (continue): fusion
+[33mf4f4f73[m HEAD@{16}: pull --force (start): checkout f4f4f73f359ebab1a99d32dfa4f1576db3c198d3
+[33m1ae8d1e[m HEAD@{17}: commit: fusion
+[33mf40c587[m HEAD@{18}: commit: sesiones
+[33ma30ef0e[m HEAD@{19}: commit: prueba rutas
+[33maee9844[m HEAD@{20}: commit: inicio de sesion admin y paciente
+[33m6efad6b[m HEAD@{21}: commit: se separa la logica de los servicios y el home y navbar correspondiente para cada usuario (falta navbar para admin)
+[33m7e1b747[m HEAD@{22}: clone: from https://github.com/SebastianMoralesDuque/front_clinica

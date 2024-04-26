@@ -1,0 +1,91 @@
+export const citasPendientes = [
+    {
+        id: 1,
+        fechaCreacion: "2023-09-19",
+        fechaCita: "2023-09-21 10:00 AM",
+        paciente: "Juan Pérez",
+        estado: "Programada",
+        motivo: "Control de presión arterial",
+    },
+    {
+        id: 2,
+        fechaCreacion: "2023-09-18",
+        fechaCita: "2023-09-22 09:30 AM",
+        paciente: "María Rodríguez",
+        estado: "Programada",
+        motivo: "Seguimiento dermatológico",
+    },
+    {
+        id: 3,
+        fechaCreacion: "2023-09-17",
+        fechaCita: "2023-09-23 11:15 AM",
+        paciente: "Carlos González",
+        estado: "Programada",
+        motivo: "Vacunación infantil",
+    },
+    {
+        id: 4,
+        fechaCreacion: "2023-09-20",
+        fechaCita: "2023-09-24 03:00 PM",
+        paciente: "Laura Martínez",
+        estado: "Programada",
+        motivo: "Examen de sangre",
+    },
+    {
+        id: 5,
+        fechaCreacion: "2023-09-21",
+        fechaCita: "2023-09-25 11:30 AM",
+        paciente: "Pedro Sánchez",
+        estado: "Programada",
+        motivo: "Consulta general",
+    },
+    {
+        id: 6,
+        fechaCreacion: "2023-09-22",
+        fechaCita: "2023-09-26 02:45 PM",
+        paciente: "Isabel López",
+        estado: "Programada",
+        motivo: "Control de diabetes",
+    },
+    {
+        id: 7,
+        fechaCreacion: "2023-09-23",
+        fechaCita: "2023-09-27 09:15 AM",
+        paciente: "Luis Torres",
+        estado: "Programada",
+        motivo: "Chequeo anual",
+    },
+    {
+        id: 8,
+        fechaCreacion: "2023-09-24",
+        fechaCita: "2023-09-28 10:45 AM",
+        paciente: "Ana Ramírez",
+        estado: "Programada",
+        motivo: "Dolor de garganta",
+    },
+];  
+export const historialCitas = [
+    {
+      id: 1,
+      fechaAtencion: '2023-09-15',
+      paciente: 'María García',
+      diagnostico: 'Dolor abdominal, posiblemente gastroenteritis.',
+      tratamiento: 'Recetado reposo, hidratación y medicamento para aliviar el dolor.',
+    },
+    {
+      id: 2,
+      fechaAtencion: '2023-09-10',
+      paciente: 'Carlos Rodríguez',
+      diagnostico: 'Fiebre alta y dolor de garganta, posible infección viral.',
+      tratamiento: 'Recetado paracetamol y reposo en casa.',
+    },
+    {
+      id: 3,
+      fechaAtencion: '2023-09-05',
+      paciente: 'Ana López',
+      diagnostico: 'Lesión en el tobillo debido a una caída.',
+      tratamiento: 'Inmovilización del tobillo y medicación para el dolor.',
+    },
+    // Agrega más entradas de historial según sea necesario
+  ];
+  
